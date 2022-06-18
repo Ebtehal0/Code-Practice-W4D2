@@ -1,5 +1,43 @@
 
-
+#red span{
+    color: red;
+}
 span{
-color:blue;
+color:#2980B9;
+}
+
+a{
+    color:#43BFC7;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+p{
+    font-weight: 500;
+}
+
+.box1{
+box-shadow:   5px 0 2px -2px #888;   
+}
+
+.logo{
+    top: 15px;
+}
+
+.text{
+    color: white;
+    bottom: 320px;
+    left: 60px;
+    font-size: 32px;
+}
+
+.boton{
+    bottom: 50px;
+    left:120px;
+    font-weight: 600;
+}
+
+.ninja{
+   bottom:120px;
+   left:90px;
 }
